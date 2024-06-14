@@ -11,6 +11,9 @@ Frontend? Backend? Database? You call it! 💻
 *   🖱️  In my free time, doing some projects! 
 *   🧠  Currently learning &nbsp; ![Static Badge](https://img.shields.io/badge/PHP-7b7fb5?style=flat-square&logo=php&logoColor=white&logoSize=auto)
 
+**Also, hit me out:** <p align="left"><a href="https://www.linkedin.com/in/brunazermiani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /> </picture> </a></p>
+
+
 ### Lookout for my Skills 👇
 [![My Skills](https://skillicons.dev/icons?i=dotnet,c,java,python,javascript,nodejs,mysql,postgresql,jquery,cs,cpp,php,aws,androidstudio&theme=dark)](https://skillicons.dev)
 
