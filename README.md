@@ -5,13 +5,19 @@ Console.WriteLine("I'm a Full-stack developer :rocket:");
 
 Frontend? Backend? Database? You call it! 💻
 
-*   🌍  I'm based in Santa Catarina, Brazil 🇧🇷
+*   🌍  I'm from Santa Catarina, Brazil 🇧🇷
 *   ✉️  Need something? [brunaelizer@gmail.com](mailto:brunaelizer@gmail.com)
-*   👩‍💼  I'm currently working for Almah Sistemas!
+*   👩‍💼  Working for Almah Sistemas!
 *   🖱️  In my free time, doing some projects! 
 *   🧠  Currently learning &nbsp; ![Static Badge](https://img.shields.io/badge/PHP-7b7fb5?style=flat-square&logo=php&logoColor=white&logoSize=auto)
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=dotnet,c,java,python,javascript,nodejs,mysql,postgresql,bootstrap,html,jquery,cs,cpp&theme=dark)](https://skillicons.dev)
+### Lookout for my Skills 👇
+[![My Skills](https://skillicons.dev/icons?i=dotnet,c,java,python,javascript,nodejs,mysql,postgresql,jquery,cs,cpp,php,aws,androidstudio&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,androidstudio&theme=dark)](https://skillicons.dev)
+# Checkout my **Portifolio!** 📖
+<div width="100%" align="center"><a href="https://github.com/brunaelizer/portifolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=brunaelizer&repo=portifolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+ ### About my code ❗
+
+<a href="https://github.com/brunaelizer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaelizer&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
