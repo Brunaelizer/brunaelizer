@@ -17,7 +17,7 @@ Frontend? Backend? Database? You call it! 💻
 ### Lookout for my Skills 👇
 [![My Skills](https://skillicons.dev/icons?i=dotnet,c,java,python,javascript,nodejs,mysql,postgresql,jquery,cs,cpp,php,aws,androidstudio&theme=dark)](https://skillicons.dev)
 
-# Checkout my **Portifolio!** 📖
+# Checkout my **Portifolio!** 📖 (But please, notice it's still in dev!)
 <div width="100%" align="center"><a href="https://brunaelizer.github.io/Portifolio/" target="_blank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=brunaelizer&repo=portifolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
