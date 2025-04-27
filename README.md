@@ -8,8 +8,8 @@ Frontend? Backend? Database? You call it! 💻
 *   🌍  I'm from Santa Catarina, Brazil 🇧🇷
 *   ✉️  Need something? [brunaelizer@gmail.com](mailto:brunaelizer@gmail.com)
 *   👩‍💼  A backend developer for [Questrade](https://www.questrade.com)!
-*   🖱️  In my free time, doing some projects! 
-*   🧠  Currently learning **FRONTEND** and &nbsp; ![Static Badge](https://img.shields.io/badge/PHP-7b7fb5?style=flat-square&logo=php&logoColor=white&logoSize=auto)
+*   🖱️  In my free time, doing some projects and playing RPGs! 
+*   🧠  Currently learning **Next.JS**;
 
 **Also, hit me out:** <p align="left"><a href="https://www.linkedin.com/in/brunazermiani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /> </picture> </a></p>
 
