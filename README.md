@@ -7,7 +7,7 @@ Frontend? Backend? Database? You call it! 💻
 
 *   🌍  I'm from Santa Catarina, Brazil 🇧🇷
 *   ✉️  Need something? [brunaelizer@gmail.com](mailto:brunaelizer@gmail.com)
-*   👩‍💼  Working for Almah Sistemas!
+*   👩‍💼  A backend developer for [Questrade](https://www.questrade.com)!
 *   🖱️  In my free time, doing some projects! 
 *   🧠  Currently learning **FRONTEND** and &nbsp; ![Static Badge](https://img.shields.io/badge/PHP-7b7fb5?style=flat-square&logo=php&logoColor=white&logoSize=auto)
 
